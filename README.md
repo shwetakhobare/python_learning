@@ -16,5 +16,4 @@ To get started with the code in this repository, clone the repo and install the 
 
 ```bash
 git clone https://github.com/shwetakhobare/[Python_Learning](https://github.com/shwetakhobare/python_learning/tree/main)
-cd your-repo-name
-pip install -r requirements.txt
+cd [Python_Learning](https://github.com/shwetakhobare/python_learning/tree/main)

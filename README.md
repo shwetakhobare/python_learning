@@ -53,6 +53,70 @@ Agile provides a flexible and efficient approach to project management, enabling
 
 ---
 
+# Software Development and Testing Life Cycles
+
+This document provides an overview of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC), outlining the key steps involved in each process.
+
+## Software Development Life Cycle (SDLC)
+
+1. **Requirement Gathering and Analysis**
+   - Collect and analyze business needs.
+   - Document requirements.
+
+2. **Design**
+   - High-Level Design (HLD): Architecture, data flow, and system interfaces.
+   - Low-Level Design (LLD): Detailed design of components.
+
+3. **Implementation (Coding)**
+   - Convert design into code.
+   - Follow coding standards and guidelines.
+
+4. **Testing**
+   - Verify and validate the developed software.
+   - Identify and fix defects.
+
+5. **Deployment**
+   - Release the software to production.
+   - Monitor for issues post-deployment.
+
+6. **Maintenance**
+   - Provide ongoing support and updates.
+   - Address any new requirements or bugs.
+
+## Software Testing Life Cycle (STLC)
+
+1. **Requirement Analysis**
+   - Understand and analyze testing requirements.
+   - Identify testable requirements.
+
+2. **Test Planning**
+   - Prepare the test strategy and plan.
+   - Determine resources, timeline, and scope.
+
+3. **Test Case Development**
+   - Write detailed test cases.
+   - Prepare test data.
+
+4. **Test Environment Setup**
+   - Configure hardware and software for testing.
+   - Ensure the environment is ready for execution.
+
+5. **Test Execution**
+   - Execute test cases.
+   - Log defects for any failures.
+
+6. **Test Closure**
+   - Evaluate test cycle completion criteria.
+   - Prepare test closure report and metrics.
+
+## Conclusion
+
+Understanding the SDLC and STLC processes is crucial for delivering high-quality software. Each step ensures that development and testing are systematically addressed to meet business and user needs.
+
+---
+
+Feel free to modify or expand this README as necessary to fit your project's specific requirements.
+
 To get started with the code in this repository, clone the repo and install the required dependencies:
 
 ```bash

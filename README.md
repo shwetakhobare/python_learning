@@ -163,6 +163,53 @@ Jira enhances project management efficiency by providing a structured environmen
 
 ---
 
+# Test Cases Documentation
+
+## Overview
+
+This document provides guidelines on the creation, format, development, and execution of test cases. Test cases are essential for verifying that our software meets all specified requirements and functions correctly.
+
+## Test Case Format
+
+Each test case should include the following components:
+
+1. **Test Case ID**: A unique identifier for the test case.
+2. **Title/Description**: A concise explanation of what the test case will verify.
+3. **Preconditions**: Conditions that must be met before executing the test.
+4. **Test Steps**: The detailed steps required to perform the test.
+5. **Test Data**: The input data needed for the test.
+6. **Expected Result**: The expected outcome of the test.
+7. **Actual Result**: The outcome obtained after executing the test.
+8. **Status**: Pass/Fail based on the comparison of expected versus actual results.
+9. **Notes/Comments**: Additional information or observations during testing.
+
+## Development of Test Cases
+
+1. **Understand Requirements**: Thoroughly analyze the software requirements for comprehensive coverage.
+2. **Define Objectives**: Clearly state what each test case aims to validate.
+3. **Design Test Cases**: Create detailed and clear steps for each scenario, covering both positive and negative outcomes.
+4. **Review**: Conduct peer reviews to ensure completeness and accuracy.
+5. **Prioritize**: Identify critical test cases based on risk and impact assessments.
+
+## Execution of Test Cases
+
+1. **Set Up Environment**: Configure the test environment to ensure it mirrors the production setup.
+2. **Execute Tests**: Follow the steps outlined in each test case.
+3. **Document Results**: Record observations, actual results, and any deviations.
+4. **Report Defects**: Log any issues or bugs discovered for further investigation.
+5. **Review and Retest**: Re-execute test cases after defects are fixed to confirm resolutions.
+
+## Best Practices
+
+- **Maintainability**: Keep test cases easy to understand and update.
+- **Reusability**: Design test cases to be reusable across different scenarios.
+- **Traceability**: Ensure each test case is traceable back to its requirement.
+- **Automation**: Automate repetitive tests for efficiency and scalability.
+
+By adhering to these guidelines, we aim to ensure high-quality and reliable software through effective testing practices.
+
+---
+
 Feel free to modify or expand this README as necessary to fit your project's specific requirements.
 
 To get started with the code in this repository, clone the repo and install the required dependencies:

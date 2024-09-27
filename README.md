@@ -115,6 +115,36 @@ Understanding the SDLC and STLC processes is crucial for delivering high-quality
 
 ---
 
+# JIRA Overview
+
+## Introduction
+JIRA is a project management tool developed by Atlassian, widely used for agile project management and bug tracking.
+
+## Purpose
+Originally designed for bug and issue tracking, JIRA has evolved to support agile project management, helping teams manage tasks, requirements, and workflows efficiently.
+
+## Features
+- **Issue Tracking:** Manage tasks, bugs, and user stories with ease.
+- **Agile Support:** Utilize Scrum and Kanban boards to streamline agile processes.
+- **Custom Workflows:** Tailor workflows to align with your team’s processes.
+- **Reporting:** Generate insightful reports on project progress and team performance.
+- **Integration:** Seamlessly connect with tools like Confluence, Bitbucket, and other third-party applications.
+
+## Benefits
+- Enhances team collaboration and transparency.
+- Provides real-time insights into project status.
+- Facilitates better planning and prioritization.
+
+## Usage
+JIRA is used by development teams, project managers, and organizations of all sizes to streamline workflows and improve project efficiency.
+
+## Access
+Available as both a cloud-based and on-premises solution, JIRA caters to different organizational needs.
+
+---
+
+For more detailed information, visit the [Atlassian JIRA website](https://www.atlassian.com/software/jira).
+
 Feel free to modify or expand this README as necessary to fit your project's specific requirements.
 
 To get started with the code in this repository, clone the repo and install the required dependencies:

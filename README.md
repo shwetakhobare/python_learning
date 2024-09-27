@@ -145,6 +145,49 @@ Available as both a cloud-based and on-premises solution, JIRA caters to differe
 
 For more detailed information, visit the [Atlassian JIRA website](https://www.atlassian.com/software/jira).
 
+---
+
+# CI/CD Overview
+
+## Introduction
+CI/CD stands for Continuous Integration and Continuous Delivery/Deployment, a set of practices that automate and enhance the software development process.
+
+## Continuous Integration (CI)
+- **Purpose:** Automate the integration of code changes from multiple contributors into a single project.
+- **Process:**
+  - Developers frequently commit code to a shared repository.
+  - Automated builds and tests run to detect issues early.
+- **Benefits:**
+  - Reduces integration problems.
+  - Ensures software quality with continuous testing.
+
+## Continuous Delivery (CD)
+- **Purpose:** Ensure software can be reliably released at any time.
+- **Process:**
+  - Automates the release process for predictable deployments.
+  - Code changes are prepared for a release to a staging environment.
+- **Benefits:**
+  - Accelerates the release of new features and bug fixes.
+  - Improves product quality and reduces time to market.
+
+## Continuous Deployment
+- **Purpose:** Automate the delivery process by deploying changes directly to production.
+- **Process:**
+  - Every change that passes automated tests is deployed to production.
+- **Benefits:**
+  - Speeds up the release cycle.
+  - Reduces human intervention, minimizing errors.
+
+## Tools
+- Common CI/CD tools include Jenkins, GitLab CI, Travis CI, CircleCI, and Bamboo.
+
+## Conclusion
+CI/CD enhances collaboration, increases deployment frequency, and improves the reliability of software releases, making it essential for modern software development.
+
+---
+
+For more information, explore specific CI/CD tools or DevOps practices resources.
+
 Feel free to modify or expand this README as necessary to fit your project's specific requirements.
 
 To get started with the code in this repository, clone the repo and install the required dependencies:
